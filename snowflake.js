@@ -56,3 +56,7 @@ class Snowflake {
         point(this.pos.x, this.pos.y)
     }
 }
+
+class DeleteMe {
+    //test
+}
